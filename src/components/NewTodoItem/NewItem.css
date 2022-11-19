@@ -1,0 +1,29 @@
+.new-todo {
+  max-width: 450px;
+  margin-bottom: 2em;
+}
+.new-todo__text {
+  color: #1d3557;
+}
+.new-todo__btn {
+  font-size: 1.2rem;
+  padding: 0.4em 0.8em;
+  border: none;
+  color: #fff;
+  background-color: #e63946;
+  transition: 0.3s ease;
+  user-select: none;
+}
+
+.new-todo__btn:hover {
+  scale: 1.1;
+  background-color: #1d3557;
+  color: #fff;
+}
+.info {
+  font-size: 0.8em;
+  font-weight: bold;
+  letter-spacing: 1.3px;
+  margin-top: 1em;
+  color: #1d3557;
+}

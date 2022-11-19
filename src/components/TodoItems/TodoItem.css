@@ -1,0 +1,10 @@
+.todo-item {
+  width: 100%;
+  max-width: 550px;
+  color: #fff;
+  margin: 1em 0;
+  padding: 1em;
+  background-color: #e63946;
+  cursor: pointer;
+  user-select: none;
+}
